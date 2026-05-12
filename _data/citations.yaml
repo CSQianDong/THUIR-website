@@ -1,6 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: enhancing judgment document generation via agentic legal information collection
+    and rubric-guided optimization
+  title: Enhancing Judgment Document Generation via Agentic Legal Information Collection
+    and Rubric-Guided Optimization
+  authors:
+  - Weihang Su
+  - Xuanyi Chen
+  - Yueyue Wu
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2605.02011
+  date: '2026-05-03'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=6870741143945325172&btnI=1&hl=en
 - id: decoupling knowledge and task subspaces for composable parametric retrieval
     augmented generation
   title: Decoupling Knowledge and Task Subspaces for Composable Parametric Retrieval
@@ -26,6 +39,22 @@
   publisher: arXiv preprint arXiv:2604.24594
   date: '2026-04-27'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=17399806177337239919&btnI=1&hl=en
+- id: improving retrieval-augmented generation through multi-agent reinforcement learning
+  title: Improving retrieval-augmented generation through multi-agent reinforcement
+    learning
+  authors:
+  - Yiqun Chen
+  - Lingyong Yan
+  - Weiwei Sun
+  - Xinyu Ma
+  - Yi Zhang
+  - Shuaiqiang Wang
+  - Dawei Yin
+  - Yiming Yang
+  - Jiaxin Mao
+  publisher: Advances in Neural Information Processing Systems
+  date: '2026-04-23'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=14163608831097753436&btnI=1&hl=en
 - id: 'tec: a collection of human trial-and-error trajectories for problem solving'
   title: 'TEC: A Collection of Human Trial-and-error Trajectories for Problem Solving'
   authors:
