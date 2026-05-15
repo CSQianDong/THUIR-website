@@ -271,6 +271,19 @@
     advanced LLM-based evaluation frameworks.'
   date: '2026-01-01'
   link: https://scholar.google.com/scholar?oi=bibs&cluster=1086558109260984113&btnI=1&hl=en
+- id: retrieval-augmented generation-the future of search?(dagstuhl seminar 25391)
+  title: Retrieval-Augmented Generation-The Future of Search?(Dagstuhl Seminar 25391)
+  authors:
+  - Matthias Hagen
+  - Josiane Mothe
+  - Smaranda Muresan
+  - Martin Potthast
+  - Min Zhang
+  - Benno Stein
+  - Sebastian Heineking
+  publisher: Dagstuhl Reports
+  date: '2026-01-01'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=9387087766656149166&btnI=1&hl=en
 - id: understanding internal representations of recommendation models with sparse
     autoencoders
   title: Understanding Internal Representations of Recommendation Models with Sparse
