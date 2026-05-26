@@ -1,6 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'how do humans process ai-generated hallucination contents: a neuroimaging study'
+  title: 'How do Humans Process AI-generated Hallucination Contents: a Neuroimaging
+    Study'
+  authors:
+  - Shuqi Zhu
+  - Yi Zhong
+  - Ziyi Ye
+  - Bangde Du
+  - Yujia Zhou
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: arXiv preprint arXiv:2605.16953
+  date: '2026-05-16'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=16126424877401719202&btnI=1&hl=en
 - id: enhancing judgment document generation via agentic legal information collection
     and rubric-guided optimization
   title: Enhancing Judgment Document Generation via Agentic Legal Information Collection
