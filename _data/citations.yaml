@@ -1,6 +1,39 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: 'legalkit: a modular toolkit for efficient legal ai evaluation'
+  title: 'LegalKit: A Modular Toolkit for Efficient Legal AI Evaluation'
+  authors:
+  - Shuo Miao
+  - Haitao Li
+  - Yueyue Wu
+  - Qingyao Ai
+  - Yiqun Liu
+  publisher: Companion Proceedings of the ACM Web Conference 2026
+  date: '2026-06-29'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=4584452056136291738&btnI=1&hl=en
+- id: "\u77E5\u8BC6\u56FE\u8C31\u589E\u5F3A\u7684\u4E09\u9636\u6BB5\u76F8\u5173\u5DE5\
+    \u4F5C\u751F\u6210\u65B9\u6CD5"
+  title: "\u77E5\u8BC6\u56FE\u8C31\u589E\u5F3A\u7684\u4E09\u9636\u6BB5\u76F8\u5173\
+    \u5DE5\u4F5C\u751F\u6210\u65B9\u6CD5"
+  authors:
+  - "\u8C22\u5B89\u5586\uFF0C \u827E\u6E05\u9065\uFF0C \u5218\u5955\u7FA4\uFF0C \u82CF\
+    \u709C\u822A\uFF0C \u6BDB\u4F73\u6615\uFF0C \u5F20\u654F\uFF0C \u9A6C\u5C11\u5E73"
+  publisher: "\u300A \u5C71\u4E1C\u5927\u5B66\u5B66\u62A5 (\u7406\u5B66\u7248)\u300B"
+  date: '2026-06-04'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=1142044104188256645&btnI=1&hl=en
+- id: personalized turn-level user conversation satisfaction benchmark
+  title: Personalized Turn-Level User Conversation Satisfaction Benchmark
+  authors:
+  - Zhefan Wang
+  - Zhiqiang Guo
+  - Weizhi Ma
+  - Min Zhang
+  - Quanjia Yan
+  - Hengliang Luo
+  publisher: arXiv preprint arXiv:2605.29711
+  date: '2026-05-28'
+  link: https://scholar.google.com/scholar?oi=bibs&cluster=10957695683368034904&btnI=1&hl=en
 - id: 'how do humans process ai-generated hallucination contents: a neuroimaging study'
   title: 'How do Humans Process AI-generated Hallucination Contents: a Neuroimaging
     Study'
